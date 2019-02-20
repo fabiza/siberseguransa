@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Image from "../components/image/macro_malware.png"
 
 const SecondPage = () => (
   <Layout>
